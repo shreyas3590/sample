@@ -1,0 +1,144 @@
+<!DOCKTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="csstypes.css">
+        <title>
+            Recordings of names
+        </title>
+        Hi my name is Shreyas
+    </head>
+    <body>
+        <h5 style="color:#237bab">color change</h5>
+        <h1>What's on ur mind</h1>
+        <h4 class="th">the vast area</h4>
+        <h3>cfjyugffyhfyfcvk</h3>
+        <h4 id="ho">how to use html</h4>
+        <ul>
+            <li>This is how it's works
+                <ul>
+            <li>It's a basic language</li>
+            <li>Before learning </li>
+            <li>it's not a marks preference language</li>
+        </ul>
+        <textarea></textarea>
+        </li>
+        </ul>
+        <h3>Anchor tag</h3>
+        <a href="hi_th.html">
+        go to page</a>
+        <h4>Image tag</h4>
+        <h1>audio</h1>
+        <audio controls play pause>
+    <source src="dora.mp3">¯
+</audio>
+
+<img
+    src="https://imgs.search.brave.com/Z4ES83eyc8XqNLf1i1aUUIBWDH2w8v0R4by8nT7tmVI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuanVzdHdhdGNo/LmNvbS9iYWNrZHJv/cC8zMjIzNjk2NjIv/czY0MC9laWdhLWRv/cmFlbW9uLW5vYml0/YS1uby1jaGlreXUt/c3ltcGhvbnkuanBn"
+    width="200"
+    alt="image"
+    style="cursor:pointer;">
+    <table border="6">
+            <td colspan="3">Student details</td>
+           <tr>
+             <td>Name</td>
+             <td>Class</td>
+             <td>Roll no.</td>
+           </tr>
+           <tr>
+            <td>Shreyas</td>
+            <td>10th</td>
+            <td>2025</td>
+           </tr>
+           <tr>
+            <td>Aziz</td>
+            <td>10th</td>
+            <td>2040</td>
+           </tr>
+           <tr>
+            <td>Affan</td>
+            <td>10th</td>
+            <td>2048</td>
+           </tr>
+           <tr>
+            <td>Sai</td>
+            <td>10th</td>
+            <td>2234</td>
+           </tr>
+           <tr>
+            <td>Jayant</td>
+            <td>10th</td>
+            <td>4857</td>
+           </tr>
+    </table>
+    <table border="8">
+        <head>
+            <th rowspan="8">S<br>R<br>N<br><br>M<br>e<br>h<br>t<br>a<br><br>S<br>c<br>h<br>o<br>o<br>l</th>
+            <th Colspan="11">Time Table</th>
+            <tr>
+                <td>Monday</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Games</td>
+                <td>Science</td>
+                <td>Kannnda</td>
+                <td>Hindi</td>
+                <td>Maths</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>English</td>
+                <td>Computer</td>
+                <td>Social</td>
+                <td>Science</td>
+                <td>Kannnda</td>
+                <td>Hindi</td>
+                <td>Maths</td>
+            </tr>
+             <tr>
+                <td>Wednesday</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Science</td>
+                <td>Drawing</td>
+                <td>Kannnda</td>
+                <td>Hindi</td>
+                <td>Maths</td>
+            </tr>
+             <tr>
+                <td>Thursday</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Science</td>
+                <td>Kannnda</td>
+                <td>Hindi</td>
+                <td>Dance</td>
+                <td>Maths</td>
+            </tr>
+             <tr>
+                <td>Friday</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Science</td>
+                <td>Kannnda</td>
+                <td>Hindi</td>
+                <td>Maths</td>
+                <td>Library</td>
+            </tr>
+             <tr>
+                <td>Saturday</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Science</td>
+                <td>Kannnda</td>
+                <td>Singing</td>
+                <td>Hindi</td>
+                <td>Maths</td>
+            </tr>
+             <tr>
+                <td>Sunday</td>
+                <th colspan="10">Holiday</th>
+            </tr>
+        </head>
+    </table>
+    </body>
+</html>
